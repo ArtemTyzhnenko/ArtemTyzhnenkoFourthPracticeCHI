@@ -22,7 +22,7 @@
     }
     .square_data {
       float: right;
-      background: url(../../images/pixel_1.png) repeat;
+      background: url(../images/pixel_1.png) repeat;
       p {
         margin: 0 auto;
         padding: 13px 22px 17px 32px;
@@ -88,7 +88,7 @@
       float: left;
       button {
         border: none;
-        background: url(../../images/arrow_right.png) no-repeat 0 1px;
+        background: url(../images/arrow_right.png) no-repeat 0 1px;
         color: #ae3b44;
         cursor: pointer;
         font: 15px/18px Arial;
@@ -100,7 +100,7 @@
       button {
         width: 128px;
         border: none;
-        background: url(../../images/arrow_left.png) no-repeat right 2px;
+        background: url(../images/arrow_left.png) no-repeat right 2px;
         color: #ae3b44;
         cursor: pointer;
         font: 15px/18px Arial;
@@ -121,7 +121,7 @@
   h3 {
     font: 18px/22px Arial;
     color: #212121;
-    background: url(../../images/pixel_1.png) repeat;
+    background: url(../images/pixel_1.png) repeat;
     padding: 6px 0 10px 14px;
     border-bottom: 1px solid $menu-border-color;
 
@@ -153,7 +153,7 @@
         padding: 13px 0 15px 17px;
         cursor: pointer;
         &::after{
-          background: url(../../images/arrow-menu.png) no-repeat right 13px top 7px;
+          background: url(../images/arrow-menu.png) no-repeat right 13px top 7px;
           width: 4px;
           height: 7px;
           content: "";
@@ -186,7 +186,7 @@
           label{
             padding-left: 36px;
             &::after{
-              background: url(../../images/arrow-menu.png) no-repeat right 15px top 3px;
+              background: url(../images/arrow-menu.png) no-repeat right 15px top 3px;
               width: 4px;
               height: 7px;
               content: "";
@@ -242,32 +242,32 @@
       display: block;
       float: left;
       padding: 24px 52px;
-      background: url(../../images/company-color.png) top 0 right 104px;
+      background: url(../images/company-color.png) top 0 right 104px;
     }
     .kreafit{
       display: block;
       float: left;
       padding: 23px 52px;
-      background: url(../../images/company-color.png) top 0 right 263px;
+      background: url(../images/company-color.png) top 0 right 263px;
     }
     .av{
       display: block;
       float: left;
       padding: 23px 52px;
-      background: url(../../images/company-color.png) top 0 right 421px;
+      background: url(../images/company-color.png) top 0 right 421px;
     }
     .gofx{
       display: block;
       float: left;
       padding: 23px 52px;
-      background: url(../../images/company-color.png) top 0 right 579px;
+      background: url(../images/company-color.png) top 0 right 579px;
     }
     .leaftech{
       display: block;
 
       float: left;
       padding: 23px 52px;
-      background: url(../../images/company-color.png) top 0 right 738px;
+      background: url(../images/company-color.png) top 0 right 738px;
     }
   }
 }
