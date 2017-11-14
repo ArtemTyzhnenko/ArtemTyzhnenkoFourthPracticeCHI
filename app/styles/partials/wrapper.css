@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+  background: linear-gradient(rgba(108, 108, 108, 0.4), rgba(254, 254, 254, 0.4)), url(../../images/world-map.png) no-repeat center top; }
+  body .wrapper {
+    width: 979px;
+    margin: 0 auto; }
+
+h1 {
+  margin: 0; }
+
+p {
+  margin: 0; }
+
+ul {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style-tu: none; }
+
+a {
+  text-decoration: none; }
+
+.clearfix {
+  content: '';
+  display: table;
+  clear: both; }
+
+/*# sourceMappingURL=wrapper.css.map */

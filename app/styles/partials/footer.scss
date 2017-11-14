@@ -1,0 +1,82 @@
+footer {
+  padding: 19px 0 26px 0;
+  h4 {
+    font: 15px/18px Arial;
+    color: #393939;
+    margin: 0 0 19px 0;
+  }
+  a {
+    font: 12px/17px Arial;
+    color: #393939;
+  }
+  .links {
+    width: 490px;
+    float: left;
+    margin: 0 0 0 20px;
+
+    ul {
+      display: block;
+      float: left;
+      margin: 0 77px 0 0;
+    }
+  }
+
+  .security {
+    float: left;
+    padding-left: 7px;
+  }
+  .social {
+    float: right;
+    padding-right: 55px;
+
+    h4 {
+      margin: 0 0 22px 0;
+    }
+    ul {
+      margin:  0 0 20px 0;
+      .tw {
+        display: block;
+        margin-right: 6px;
+        float: left;
+        padding: 12px;
+        background: url(../../images/grey-social.png) top 0 left 0;
+        &:hover {
+          background: url(../../images/color-social.png) top 0 left 0;
+        }
+      }
+      .fb {
+        display: block;
+        margin-right: 6px;
+        float: left;
+        padding: 12px;
+        background: url(../../images/grey-social.png) top 0 right 54px;
+        &:hover {
+          background: url(../../images/color-social.png) top 0 right 54px;
+        }
+      }
+      .in {
+        display: block;
+        margin-right: 6px;
+        float: left;
+        padding: 12px;
+        background: url(../../images/grey-social.png) top 0 right 84px;
+        &:hover {
+          background: url(../../images/color-social.png) top 0 right 84px;
+        }
+      }
+      .rss {
+        display: block;
+        margin-right: 6px;
+        float: left;
+        padding: 12px;
+        background: url(../../images/grey-social.png) top 0 right 114px;
+        &:hover {
+          background: url(../../images/color-social.png) top 0 right 114px;
+        }
+      }
+    }
+    p {
+      font: 11px/19px Arial;
+    }
+  }
+}
